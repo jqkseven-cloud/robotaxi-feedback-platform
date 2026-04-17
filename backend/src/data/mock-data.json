@@ -1,0 +1,2977 @@
+[
+  {
+    "id": "F113",
+    "passengerId": "P062",
+    "tripId": "T20260416_113",
+    "vehicleId": "AV-WH-001",
+    "rating": 4,
+    "feedbackText": "车内非常整洁，座椅舒适，空调温度适宜，整个行程很愉快。",
+    "feedbackType": "车内环境",
+    "city": "武汉",
+    "route": "光谷广场 → 武汉站",
+    "tripStartTime": "2026-04-16T08:02:38.092Z",
+    "tripDuration": 17,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "整洁干净",
+      "空调舒适",
+      "无异味"
+    ],
+    "createdAt": "2026-04-16T08:24:38.092Z"
+  },
+  {
+    "id": "F041",
+    "passengerId": "P024",
+    "tripId": "T20260416_041",
+    "vehicleId": "AV-SH-005",
+    "rating": 1,
+    "feedbackText": "在雨天路面系统似乎出现了判断错误，险些驶入积水路段，很危险。",
+    "feedbackType": "安全感受",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-04-15T22:25:18.880Z",
+    "tripDuration": 55,
+    "weather": "小雨",
+    "sentiment": "negative",
+    "tags": [
+      "刹车距离近",
+      "变道危险"
+    ],
+    "createdAt": "2026-04-15T22:42:18.880Z"
+  },
+  {
+    "id": "F150",
+    "passengerId": "P026",
+    "tripId": "T20260415_150",
+    "vehicleId": "AV-GZ-001",
+    "rating": 3,
+    "feedbackText": "上车时行李放置有点不方便，后备箱有点小，大行李要侧着放。",
+    "feedbackType": "接驾体验",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-04-15T12:46:06.472Z",
+    "tripDuration": 23,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "稍有等待",
+      "行李不便",
+      "位置稍偏"
+    ],
+    "createdAt": "2026-04-15T13:24:06.472Z"
+  },
+  {
+    "id": "F028",
+    "passengerId": "P029",
+    "tripId": "T20260415_028",
+    "vehicleId": "AV-GZ-004",
+    "rating": 5,
+    "feedbackText": "紧急情况处理得当，突然有电动车闯入时系统快速响应，没有任何危险。",
+    "feedbackType": "安全感受",
+    "city": "广州",
+    "route": "广州南站 → 天河体育中心",
+    "tripStartTime": "2026-04-15T06:33:39.405Z",
+    "tripDuration": 55,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "行人判断准",
+      "应急处理好"
+    ],
+    "createdAt": "2026-04-15T07:22:39.405Z"
+  },
+  {
+    "id": "F015",
+    "passengerId": "P046",
+    "tripId": "T20260415_015",
+    "vehicleId": "AV-CQ-003",
+    "rating": 1,
+    "feedbackText": "遇到行人横穿时刹车距离太近，如果是小孩子真的很危险，必须改进。",
+    "feedbackType": "安全感受",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-04-15T03:55:38.139Z",
+    "tripDuration": 35,
+    "weather": "多云",
+    "sentiment": "negative",
+    "tags": [
+      "障碍识别慢"
+    ],
+    "createdAt": "2026-04-15T04:46:38.139Z"
+  },
+  {
+    "id": "F023",
+    "passengerId": "P035",
+    "tripId": "T20260415_023",
+    "vehicleId": "AV-WH-001",
+    "rating": 3,
+    "feedbackText": "驾驶比较保守，有时候绿灯了还要停顿一下才启动，不过安全第一。",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "汉口火车站 → 江汉路",
+    "tripStartTime": "2026-04-14T20:17:04.162Z",
+    "tripDuration": 47,
+    "weather": "阴",
+    "sentiment": "neutral",
+    "tags": [
+      "保守驾驶"
+    ],
+    "createdAt": "2026-04-14T20:37:04.162Z"
+  },
+  {
+    "id": "F142",
+    "passengerId": "P009",
+    "tripId": "T20260415_142",
+    "vehicleId": "AV-CQ-001",
+    "rating": 4,
+    "feedbackText": "车内温度恰好，座椅皮质感很好，腿部空间充裕，体验超出预期。",
+    "feedbackType": "车内环境",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-04-14T16:27:54.783Z",
+    "tripDuration": 15,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "空调舒适"
+    ],
+    "createdAt": "2026-04-14T16:40:54.783Z"
+  },
+  {
+    "id": "F141",
+    "passengerId": "P072",
+    "tripId": "T20260414_141",
+    "vehicleId": "AV-CQ-001",
+    "rating": 2,
+    "feedbackText": "路线选择错误，走了一条正在修路的道路，颠簸了很长时间。",
+    "feedbackType": "路线规划",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-04-14T13:14:06.515Z",
+    "tripDuration": 18,
+    "weather": "大雨",
+    "sentiment": "negative",
+    "tags": [
+      "走修路路段"
+    ],
+    "createdAt": "2026-04-14T14:05:06.515Z"
+  },
+  {
+    "id": "F063",
+    "passengerId": "P053",
+    "tripId": "T20260414_063",
+    "vehicleId": "AV-CQ-002",
+    "rating": 1,
+    "feedbackText": "明明有更快的路线系统不走，非要走拥堵的主干道，多花了20分钟。",
+    "feedbackType": "路线规划",
+    "city": "重庆",
+    "route": "江北国际机场 → 解放碑",
+    "tripStartTime": "2026-04-14T10:27:57.603Z",
+    "tripDuration": 29,
+    "weather": "大雨",
+    "sentiment": "negative",
+    "tags": [
+      "未避开拥堵"
+    ],
+    "createdAt": "2026-04-14T10:45:57.603Z"
+  },
+  {
+    "id": "F080",
+    "passengerId": "P026",
+    "tripId": "T20260413_080",
+    "vehicleId": "AV-CQ-002",
+    "rating": 1,
+    "feedbackText": "路线选择错误，走了一条正在修路的道路，颠簸了很长时间。",
+    "feedbackType": "路线规划",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-04-13T14:44:27.351Z",
+    "tripDuration": 34,
+    "weather": "阴",
+    "sentiment": "negative",
+    "tags": [
+      "未避开拥堵"
+    ],
+    "createdAt": "2026-04-13T15:12:27.351Z"
+  },
+  {
+    "id": "F082",
+    "passengerId": "P028",
+    "tripId": "T20260413_082",
+    "vehicleId": "AV-SH-002",
+    "rating": 4,
+    "feedbackText": "接驾很顺利，车辆停在最方便的位置，行李箱也很宽敞。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-04-13T09:41:30.296Z",
+    "tripDuration": 48,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "接驾便利"
+    ],
+    "createdAt": "2026-04-13T09:57:30.296Z"
+  },
+  {
+    "id": "F081",
+    "passengerId": "P070",
+    "tripId": "T20260412_081",
+    "vehicleId": "AV-SH-003",
+    "rating": 1,
+    "feedbackText": "明明有更快的路线系统不走，非要走拥堵的主干道，多花了20分钟。",
+    "feedbackType": "路线规划",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-04-12T04:40:17.445Z",
+    "tripDuration": 70,
+    "weather": "阴",
+    "sentiment": "negative",
+    "tags": [
+      "未避开拥堵"
+    ],
+    "createdAt": "2026-04-12T05:39:17.445Z"
+  },
+  {
+    "id": "F106",
+    "passengerId": "P056",
+    "tripId": "T20260412_106",
+    "vehicleId": "AV-GZ-002",
+    "rating": 3,
+    "feedbackText": "整体还可以，就是车内没有手机充电接口，稍有不便。",
+    "feedbackType": "车内环境",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-04-11T22:03:36.204Z",
+    "tripDuration": 19,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "空调噪音",
+      "屏幕老旧"
+    ],
+    "createdAt": "2026-04-11T22:39:36.204Z"
+  },
+  {
+    "id": "F050",
+    "passengerId": "P029",
+    "tripId": "T20260411_050",
+    "vehicleId": "AV-SH-001",
+    "rating": 3,
+    "feedbackText": "路线基本合理，中间走了一段小路，不过也没有明显绕路。",
+    "feedbackType": "路线规划",
+    "city": "上海",
+    "route": "虹桥火车站 → 人民广场",
+    "tripStartTime": "2026-04-11T12:59:10.247Z",
+    "tripDuration": 31,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "绕行合理",
+      "路线一般",
+      "与预期相符"
+    ],
+    "createdAt": "2026-04-11T13:35:10.247Z"
+  },
+  {
+    "id": "F149",
+    "passengerId": "P020",
+    "tripId": "T20260411_149",
+    "vehicleId": "AV-WH-001",
+    "rating": 5,
+    "feedbackText": "导航路线优化得很好，虽然绕了一点但避开了主干道拥堵，总时间更短。",
+    "feedbackType": "路线规划",
+    "city": "武汉",
+    "route": "光谷广场 → 武汉站",
+    "tripStartTime": "2026-04-11T08:20:12.753Z",
+    "tripDuration": 69,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "路线最优",
+      "节省时间"
+    ],
+    "createdAt": "2026-04-11T08:46:12.753Z"
+  },
+  {
+    "id": "F032",
+    "passengerId": "P033",
+    "tripId": "T20260411_032",
+    "vehicleId": "AV-SH-004",
+    "rating": 5,
+    "feedbackText": "自动驾驶系统对路况判断准确，变道超车时机把握得很好，比人类司机还稳。",
+    "feedbackType": "驾驶体验",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-04-11T04:14:32.528Z",
+    "tripDuration": 50,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "加减速顺滑",
+      "驾驶自然"
+    ],
+    "createdAt": "2026-04-11T04:55:32.528Z"
+  },
+  {
+    "id": "F073",
+    "passengerId": "P011",
+    "tripId": "T20260411_073",
+    "vehicleId": "AV-GZ-003",
+    "rating": 2,
+    "feedbackText": "夜间行驶感觉系统对前方障碍物识别不够及时，有几次都有点险情。",
+    "feedbackType": "安全感受",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-04-10T22:46:18.878Z",
+    "tripDuration": 58,
+    "weather": "阴",
+    "sentiment": "negative",
+    "tags": [
+      "障碍识别慢",
+      "变道危险"
+    ],
+    "createdAt": "2026-04-10T22:55:18.878Z"
+  },
+  {
+    "id": "F068",
+    "passengerId": "P078",
+    "tripId": "T20260411_068",
+    "vehicleId": "AV-GZ-004",
+    "rating": 3,
+    "feedbackText": "导航选择了一条我平时不走的路，时间差不多，就是不熟悉有点担心。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-04-10T19:57:34.496Z",
+    "tripDuration": 24,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "与预期相符",
+      "绕行合理",
+      "路线一般"
+    ],
+    "createdAt": "2026-04-10T20:56:34.496Z"
+  },
+  {
+    "id": "F057",
+    "passengerId": "P042",
+    "tripId": "T20260410_057",
+    "vehicleId": "AV-CQ-002",
+    "rating": 4,
+    "feedbackText": "接驾位置就在出口正前方，下楼就能看到车，非常方便。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "大学城 → 沙坪坝",
+    "tripStartTime": "2026-04-10T10:36:25.202Z",
+    "tripDuration": 73,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "准时到达"
+    ],
+    "createdAt": "2026-04-10T11:25:25.202Z"
+  },
+  {
+    "id": "F033",
+    "passengerId": "P050",
+    "tripId": "T20260409_033",
+    "vehicleId": "AV-CQ-003",
+    "rating": 5,
+    "feedbackText": "系统提前推送了接驾位置图片，很贴心，完全没有找车的困扰。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "大学城 → 沙坪坝",
+    "tripStartTime": "2026-04-09T02:48:28.463Z",
+    "tripDuration": 45,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "停车位置好",
+      "接驾便利",
+      "等待时间短"
+    ],
+    "createdAt": "2026-04-09T03:04:28.463Z"
+  },
+  {
+    "id": "F125",
+    "passengerId": "P078",
+    "tripId": "T20260409_125",
+    "vehicleId": "AV-SH-002",
+    "rating": 4,
+    "feedbackText": "车内非常整洁，座椅舒适，空调温度适宜，整个行程很愉快。",
+    "feedbackType": "车内环境",
+    "city": "上海",
+    "route": "虹桥火车站 → 人民广场",
+    "tripStartTime": "2026-04-08T20:12:12.456Z",
+    "tripDuration": 25,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "整洁干净"
+    ],
+    "createdAt": "2026-04-08T20:39:12.456Z"
+  },
+  {
+    "id": "F133",
+    "passengerId": "P015",
+    "tripId": "T20260409_133",
+    "vehicleId": "AV-SH-001",
+    "rating": 5,
+    "feedbackText": "车内非常整洁，座椅舒适，空调温度适宜，整个行程很愉快。",
+    "feedbackType": "车内环境",
+    "city": "上海",
+    "route": "虹桥火车站 → 人民广场",
+    "tripStartTime": "2026-04-08T18:34:50.043Z",
+    "tripDuration": 26,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "整洁干净"
+    ],
+    "createdAt": "2026-04-08T19:29:50.043Z"
+  },
+  {
+    "id": "F126",
+    "passengerId": "P041",
+    "tripId": "T20260408_126",
+    "vehicleId": "AV-CQ-002",
+    "rating": 3,
+    "feedbackText": "等待了约5分钟，可以接受，不过如果能再快一点就更好了。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "大学城 → 沙坪坝",
+    "tripStartTime": "2026-04-08T00:03:18.217Z",
+    "tripDuration": 22,
+    "weather": "大雨",
+    "sentiment": "neutral",
+    "tags": [
+      "位置稍偏"
+    ],
+    "createdAt": "2026-04-08T00:50:18.217Z"
+  },
+  {
+    "id": "F056",
+    "passengerId": "P013",
+    "tripId": "T20260408_056",
+    "vehicleId": "AV-GZ-003",
+    "rating": 3,
+    "feedbackText": "路线规划一般，和我自己规划的路线差不多，没有太大差别。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-04-07T23:51:02.365Z",
+    "tripDuration": 38,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "与预期相符"
+    ],
+    "createdAt": "2026-04-08T00:49:02.365Z"
+  },
+  {
+    "id": "F045",
+    "passengerId": "P025",
+    "tripId": "T20260407_045",
+    "vehicleId": "AV-SH-002",
+    "rating": 1,
+    "feedbackText": "车内有明显异味，像是香水和汗味混合，全程开着窗才勉强忍受。",
+    "feedbackType": "车内环境",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-04-06T18:51:27.066Z",
+    "tripDuration": 51,
+    "weather": "阴",
+    "sentiment": "negative",
+    "tags": [
+      "车内脏乱",
+      "有异味",
+      "空调故障"
+    ],
+    "createdAt": "2026-04-06T19:24:27.066Z"
+  },
+  {
+    "id": "F085",
+    "passengerId": "P031",
+    "tripId": "T20260407_085",
+    "vehicleId": "AV-WH-003",
+    "rating": 3,
+    "feedbackText": "驾驶比较保守，有时候绿灯了还要停顿一下才启动，不过安全第一。",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "汉口火车站 → 江汉路",
+    "tripStartTime": "2026-04-06T17:58:26.363Z",
+    "tripDuration": 15,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "偶有顿挫",
+      "保守驾驶"
+    ],
+    "createdAt": "2026-04-06T18:45:26.363Z"
+  },
+  {
+    "id": "F127",
+    "passengerId": "P077",
+    "tripId": "T20260406_127",
+    "vehicleId": "AV-CQ-001",
+    "rating": 3,
+    "feedbackText": "接驾位置稍微有些偏，走了大概50米才到，不算麻烦。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "大学城 → 沙坪坝",
+    "tripStartTime": "2026-04-05T18:37:50.954Z",
+    "tripDuration": 74,
+    "weather": "阴",
+    "sentiment": "neutral",
+    "tags": [
+      "行李不便",
+      "稍有等待"
+    ],
+    "createdAt": "2026-04-05T19:29:50.954Z"
+  },
+  {
+    "id": "F016",
+    "passengerId": "P042",
+    "tripId": "T20260406_016",
+    "vehicleId": "AV-CQ-001",
+    "rating": 3,
+    "feedbackText": "空调噪音稍大，不影响使用，但如果能改善一下就更好了。",
+    "feedbackType": "车内环境",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-04-05T16:47:36.137Z",
+    "tripDuration": 15,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "屏幕老旧",
+      "基本整洁"
+    ],
+    "createdAt": "2026-04-05T17:28:36.137Z"
+  },
+  {
+    "id": "F059",
+    "passengerId": "P029",
+    "tripId": "T20260405_059",
+    "vehicleId": "AV-SH-005",
+    "rating": 1,
+    "feedbackText": "明显走了冤枉路，比正常路线多了将近5公里，费用也多扣了不少。",
+    "feedbackType": "路线规划",
+    "city": "上海",
+    "route": "虹桥火车站 → 人民广场",
+    "tripStartTime": "2026-04-05T04:13:07.654Z",
+    "tripDuration": 45,
+    "weather": "大雨",
+    "sentiment": "negative",
+    "tags": [
+      "绕路收费",
+      "走修路路段"
+    ],
+    "createdAt": "2026-04-05T04:33:07.654Z"
+  },
+  {
+    "id": "F072",
+    "passengerId": "P058",
+    "tripId": "T20260405_072",
+    "vehicleId": "AV-WH-002",
+    "rating": 5,
+    "feedbackText": "全程没有多余的晃动，坐在后座完全可以安心看手机，很棒的体验！",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "汉口火车站 → 江汉路",
+    "tripStartTime": "2026-04-04T20:14:45.179Z",
+    "tripDuration": 19,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "平稳舒适",
+      "驾驶自然",
+      "加减速顺滑"
+    ],
+    "createdAt": "2026-04-04T20:20:45.179Z"
+  },
+  {
+    "id": "F098",
+    "passengerId": "P015",
+    "tripId": "T20260404_098",
+    "vehicleId": "AV-GZ-001",
+    "rating": 3,
+    "feedbackText": "车内基本整洁，有一处座椅有点脏，建议运营方加强清洁频率。",
+    "feedbackType": "车内环境",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-04-04T10:39:48.078Z",
+    "tripDuration": 45,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "空调噪音"
+    ],
+    "createdAt": "2026-04-04T11:38:48.078Z"
+  },
+  {
+    "id": "F110",
+    "passengerId": "P080",
+    "tripId": "T20260404_110",
+    "vehicleId": "AV-CQ-002",
+    "rating": 4,
+    "feedbackText": "屏幕显示信息清晰，行程进度一目了然，操作也很简单。",
+    "feedbackType": "车内环境",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-04-04T03:46:41.343Z",
+    "tripDuration": 59,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "座椅舒适"
+    ],
+    "createdAt": "2026-04-04T04:21:41.343Z"
+  },
+  {
+    "id": "F123",
+    "passengerId": "P063",
+    "tripId": "T20260403_123",
+    "vehicleId": "AV-WH-003",
+    "rating": 5,
+    "feedbackText": "车内温度恰好，座椅皮质感很好，腿部空间充裕，体验超出预期。",
+    "feedbackType": "车内环境",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-04-03T05:20:18.274Z",
+    "tripDuration": 57,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "空调舒适",
+      "整洁干净"
+    ],
+    "createdAt": "2026-04-03T05:56:18.274Z"
+  },
+  {
+    "id": "F114",
+    "passengerId": "P049",
+    "tripId": "T20260402_114",
+    "vehicleId": "AV-WH-003",
+    "rating": 5,
+    "feedbackText": "车内非常整洁，座椅舒适，空调温度适宜，整个行程很愉快。",
+    "feedbackType": "车内环境",
+    "city": "武汉",
+    "route": "武汉天河机场 → 武汉站",
+    "tripStartTime": "2026-04-02T10:58:47.604Z",
+    "tripDuration": 73,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "无异味"
+    ],
+    "createdAt": "2026-04-02T11:38:47.604Z"
+  },
+  {
+    "id": "F132",
+    "passengerId": "P029",
+    "tripId": "T20260402_132",
+    "vehicleId": "AV-GZ-001",
+    "rating": 3,
+    "feedbackText": "速度控制偏保守，超车时机有时候不够果断，不过没有安全隐患。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-04-02T10:50:39.169Z",
+    "tripDuration": 17,
+    "weather": "大雨",
+    "sentiment": "neutral",
+    "tags": [
+      "速度偏慢",
+      "保守驾驶"
+    ],
+    "createdAt": "2026-04-02T11:05:39.169Z"
+  },
+  {
+    "id": "F087",
+    "passengerId": "P042",
+    "tripId": "T20260401_087",
+    "vehicleId": "AV-GZ-001",
+    "rating": 3,
+    "feedbackText": "路线规划一般，和我自己规划的路线差不多，没有太大差别。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-04-01T15:39:01.422Z",
+    "tripDuration": 26,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "绕行合理",
+      "路线一般"
+    ],
+    "createdAt": "2026-04-01T16:14:01.422Z"
+  },
+  {
+    "id": "F070",
+    "passengerId": "P048",
+    "tripId": "T20260401_070",
+    "vehicleId": "AV-WH-002",
+    "rating": 5,
+    "feedbackText": "接驾位置就在出口正前方，下楼就能看到车，非常方便。",
+    "feedbackType": "接驾体验",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-03-31T23:30:20.341Z",
+    "tripDuration": 62,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "接驾便利",
+      "准时到达",
+      "等待时间短"
+    ],
+    "createdAt": "2026-04-01T00:05:20.341Z"
+  },
+  {
+    "id": "F130",
+    "passengerId": "P029",
+    "tripId": "T20260330_130",
+    "vehicleId": "AV-SH-001",
+    "rating": 5,
+    "feedbackText": "高速段行驶特别平稳，跟车距离保持得很好，完全不担心安全问题。",
+    "feedbackType": "驾驶体验",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-03-30T15:45:57.087Z",
+    "tripDuration": 70,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "驾驶自然",
+      "平稳舒适"
+    ],
+    "createdAt": "2026-03-30T16:15:57.087Z"
+  },
+  {
+    "id": "F084",
+    "passengerId": "P047",
+    "tripId": "T20260330_084",
+    "vehicleId": "AV-GZ-002",
+    "rating": 4,
+    "feedbackText": "路线选择非常智能，几乎完美地避开了早高峰，比预计时间提前到达。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-03-30T05:30:19.511Z",
+    "tripDuration": 31,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "导航精准",
+      "避开拥堵",
+      "路线最优"
+    ],
+    "createdAt": "2026-03-30T06:28:19.511Z"
+  },
+  {
+    "id": "F105",
+    "passengerId": "P029",
+    "tripId": "T20260330_105",
+    "vehicleId": "AV-SH-001",
+    "rating": 1,
+    "feedbackText": "后排座椅损坏，坐下去有弹簧顶背的感觉，行程比较长所以很难受。",
+    "feedbackType": "车内环境",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-03-30T05:50:27.906Z",
+    "tripDuration": 22,
+    "weather": "阴",
+    "sentiment": "negative",
+    "tags": [
+      "空调故障"
+    ],
+    "createdAt": "2026-03-30T06:06:27.906Z"
+  },
+  {
+    "id": "F119",
+    "passengerId": "P021",
+    "tripId": "T20260330_119",
+    "vehicleId": "AV-CQ-003",
+    "rating": 2,
+    "feedbackText": "刹车太突然，多次急刹，行李都从座位上掉下来了，体验很差。",
+    "feedbackType": "驾驶体验",
+    "city": "重庆",
+    "route": "江北国际机场 → 解放碑",
+    "tripStartTime": "2026-03-30T00:08:26.458Z",
+    "tripDuration": 35,
+    "weather": "晴",
+    "sentiment": "negative",
+    "tags": [
+      "顿挫感强",
+      "急加速"
+    ],
+    "createdAt": "2026-03-30T00:31:26.458Z"
+  },
+  {
+    "id": "F006",
+    "passengerId": "P051",
+    "tripId": "T20260330_006",
+    "vehicleId": "AV-WH-003",
+    "rating": 5,
+    "feedbackText": "过十字路口时提前减速，对行人的判断很准确，乘客完全放心。",
+    "feedbackType": "安全感受",
+    "city": "武汉",
+    "route": "光谷广场 → 武汉站",
+    "tripStartTime": "2026-03-29T19:46:55.940Z",
+    "tripDuration": 65,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "行人判断准",
+      "应急处理好",
+      "安全放心"
+    ],
+    "createdAt": "2026-03-29T20:41:55.940Z"
+  },
+  {
+    "id": "F048",
+    "passengerId": "P041",
+    "tripId": "T20260329_048",
+    "vehicleId": "AV-SH-005",
+    "rating": 5,
+    "feedbackText": "系统提前推送了接驾位置图片，很贴心，完全没有找车的困扰。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-03-29T15:19:21.985Z",
+    "tripDuration": 41,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "等待时间短"
+    ],
+    "createdAt": "2026-03-29T15:57:21.985Z"
+  },
+  {
+    "id": "F109",
+    "passengerId": "P014",
+    "tripId": "T20260329_109",
+    "vehicleId": "AV-CQ-003",
+    "rating": 1,
+    "feedbackText": "遇到行人横穿时刹车距离太近，如果是小孩子真的很危险，必须改进。",
+    "feedbackType": "安全感受",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-03-29T14:39:45.783Z",
+    "tripDuration": 70,
+    "weather": "多云",
+    "sentiment": "negative",
+    "tags": [
+      "夜间感觉险",
+      "变道危险"
+    ],
+    "createdAt": "2026-03-29T15:29:45.783Z"
+  },
+  {
+    "id": "F017",
+    "passengerId": "P051",
+    "tripId": "T20260329_017",
+    "vehicleId": "AV-CQ-001",
+    "rating": 2,
+    "feedbackText": "遇到行人横穿时刹车距离太近，如果是小孩子真的很危险，必须改进。",
+    "feedbackType": "安全感受",
+    "city": "重庆",
+    "route": "江北国际机场 → 解放碑",
+    "tripStartTime": "2026-03-29T05:28:56.267Z",
+    "tripDuration": 65,
+    "weather": "多云",
+    "sentiment": "negative",
+    "tags": [
+      "障碍识别慢",
+      "变道危险"
+    ],
+    "createdAt": "2026-03-29T06:13:56.267Z"
+  },
+  {
+    "id": "F001",
+    "passengerId": "P063",
+    "tripId": "T20260328_001",
+    "vehicleId": "AV-SH-001",
+    "rating": 4,
+    "feedbackText": "接驾位置就在出口正前方，下楼就能看到车，非常方便。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-03-28T14:59:08.337Z",
+    "tripDuration": 57,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "准时到达",
+      "接驾便利"
+    ],
+    "createdAt": "2026-03-28T15:49:08.337Z"
+  },
+  {
+    "id": "F140",
+    "passengerId": "P007",
+    "tripId": "T20260328_140",
+    "vehicleId": "AV-GZ-004",
+    "rating": 1,
+    "feedbackText": "变道时没有预警，突然向右变道，吓了一跳，希望优化变道逻辑。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-03-28T13:31:04.751Z",
+    "tripDuration": 28,
+    "weather": "多云",
+    "sentiment": "negative",
+    "tags": [
+      "急加速",
+      "顿挫感强",
+      "急刹车"
+    ],
+    "createdAt": "2026-03-28T13:47:04.751Z"
+  },
+  {
+    "id": "F002",
+    "passengerId": "P039",
+    "tripId": "T20260328_002",
+    "vehicleId": "AV-CQ-003",
+    "rating": 3,
+    "feedbackText": "导航选择了一条我平时不走的路，时间差不多，就是不熟悉有点担心。",
+    "feedbackType": "路线规划",
+    "city": "重庆",
+    "route": "江北国际机场 → 解放碑",
+    "tripStartTime": "2026-03-27T17:22:57.876Z",
+    "tripDuration": 24,
+    "weather": "阴",
+    "sentiment": "neutral",
+    "tags": [
+      "与预期相符",
+      "路线一般",
+      "绕行合理"
+    ],
+    "createdAt": "2026-03-27T18:03:57.876Z"
+  },
+  {
+    "id": "F071",
+    "passengerId": "P002",
+    "tripId": "T20260327_071",
+    "vehicleId": "AV-SH-005",
+    "rating": 3,
+    "feedbackText": "空调噪音稍大，不影响使用，但如果能改善一下就更好了。",
+    "feedbackType": "车内环境",
+    "city": "上海",
+    "route": "浦东国际机场 → 陆家嘴",
+    "tripStartTime": "2026-03-27T10:03:40.281Z",
+    "tripDuration": 21,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "屏幕老旧",
+      "空调噪音",
+      "基本整洁"
+    ],
+    "createdAt": "2026-03-27T10:11:40.281Z"
+  },
+  {
+    "id": "F120",
+    "passengerId": "P036",
+    "tripId": "T20260326_120",
+    "vehicleId": "AV-SH-003",
+    "rating": 5,
+    "feedbackText": "导航路线优化得很好，虽然绕了一点但避开了主干道拥堵，总时间更短。",
+    "feedbackType": "路线规划",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-03-25T17:31:51.321Z",
+    "tripDuration": 19,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "节省时间",
+      "避开拥堵",
+      "路线最优"
+    ],
+    "createdAt": "2026-03-25T17:50:51.321Z"
+  },
+  {
+    "id": "F025",
+    "passengerId": "P026",
+    "tripId": "T20260325_025",
+    "vehicleId": "AV-SH-002",
+    "rating": 3,
+    "feedbackText": "接驾位置稍微有些偏，走了大概50米才到，不算麻烦。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-03-24T20:04:21.034Z",
+    "tripDuration": 64,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "稍有等待",
+      "位置稍偏"
+    ],
+    "createdAt": "2026-03-24T20:14:21.034Z"
+  },
+  {
+    "id": "F026",
+    "passengerId": "P029",
+    "tripId": "T20260324_026",
+    "vehicleId": "AV-CQ-002",
+    "rating": 3,
+    "feedbackText": "整体还可以，就是车内没有手机充电接口，稍有不便。",
+    "feedbackType": "车内环境",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-03-24T05:47:13.913Z",
+    "tripDuration": 42,
+    "weather": "阴",
+    "sentiment": "neutral",
+    "tags": [
+      "屏幕老旧"
+    ],
+    "createdAt": "2026-03-24T06:38:13.913Z"
+  },
+  {
+    "id": "F061",
+    "passengerId": "P020",
+    "tripId": "T20260324_061",
+    "vehicleId": "AV-SH-001",
+    "rating": 5,
+    "feedbackText": "车辆提前到达指定位置，上车非常方便，没有找车找不到的问题。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "静安寺 → 外滩",
+    "tripStartTime": "2026-03-24T03:17:25.146Z",
+    "tripDuration": 17,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "等待时间短"
+    ],
+    "createdAt": "2026-03-24T04:03:25.146Z"
+  },
+  {
+    "id": "F090",
+    "passengerId": "P028",
+    "tripId": "T20260324_090",
+    "vehicleId": "AV-CQ-003",
+    "rating": 4,
+    "feedbackText": "高速段行驶特别平稳，跟车距离保持得很好，完全不担心安全问题。",
+    "feedbackType": "驾驶体验",
+    "city": "重庆",
+    "route": "江北国际机场 → 解放碑",
+    "tripStartTime": "2026-03-23T23:21:39.372Z",
+    "tripDuration": 43,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "平稳舒适",
+      "加减速顺滑"
+    ],
+    "createdAt": "2026-03-24T00:16:39.372Z"
+  },
+  {
+    "id": "F076",
+    "passengerId": "P036",
+    "tripId": "T20260324_076",
+    "vehicleId": "AV-SH-002",
+    "rating": 5,
+    "feedbackText": "屏幕显示信息清晰，行程进度一目了然，操作也很简单。",
+    "feedbackType": "车内环境",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-03-23T20:44:03.165Z",
+    "tripDuration": 30,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "空调舒适",
+      "无异味"
+    ],
+    "createdAt": "2026-03-23T20:57:03.165Z"
+  },
+  {
+    "id": "F101",
+    "passengerId": "P061",
+    "tripId": "T20260323_101",
+    "vehicleId": "AV-GZ-003",
+    "rating": 4,
+    "feedbackText": "路线规划很合理，全程没有走冤枉路，比我自己导航还快10分钟。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-03-23T11:33:33.222Z",
+    "tripDuration": 67,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "节省时间"
+    ],
+    "createdAt": "2026-03-23T11:53:33.222Z"
+  },
+  {
+    "id": "F144",
+    "passengerId": "P024",
+    "tripId": "T20260322_144",
+    "vehicleId": "AV-GZ-002",
+    "rating": 2,
+    "feedbackText": "车辆停错了位置，我在A出口等，车停在了B出口，浪费了很多时间找车。",
+    "feedbackType": "接驾体验",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-03-22T13:26:40.733Z",
+    "tripDuration": 73,
+    "weather": "晴",
+    "sentiment": "negative",
+    "tags": [
+      "停错地点",
+      "找车困难"
+    ],
+    "createdAt": "2026-03-22T14:00:40.733Z"
+  },
+  {
+    "id": "F136",
+    "passengerId": "P017",
+    "tripId": "T20260322_136",
+    "vehicleId": "AV-CQ-003",
+    "rating": 3,
+    "feedbackText": "速度控制偏保守，超车时机有时候不够果断，不过没有安全隐患。",
+    "feedbackType": "驾驶体验",
+    "city": "重庆",
+    "route": "大学城 → 沙坪坝",
+    "tripStartTime": "2026-03-22T08:25:39.464Z",
+    "tripDuration": 74,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "偶有顿挫"
+    ],
+    "createdAt": "2026-03-22T09:00:39.464Z"
+  },
+  {
+    "id": "F069",
+    "passengerId": "P055",
+    "tripId": "T20260322_069",
+    "vehicleId": "AV-GZ-004",
+    "rating": 4,
+    "feedbackText": "全程没有多余的晃动，坐在后座完全可以安心看手机，很棒的体验！",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-03-21T23:44:39.038Z",
+    "tripDuration": 50,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "跟车稳定",
+      "加减速顺滑"
+    ],
+    "createdAt": "2026-03-21T23:51:39.038Z"
+  },
+  {
+    "id": "F047",
+    "passengerId": "P007",
+    "tripId": "T20260321_047",
+    "vehicleId": "AV-SH-005",
+    "rating": 3,
+    "feedbackText": "上车时行李放置有点不方便，后备箱有点小，大行李要侧着放。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-03-21T14:24:08.877Z",
+    "tripDuration": 15,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "行李不便"
+    ],
+    "createdAt": "2026-03-21T14:57:08.877Z"
+  },
+  {
+    "id": "F093",
+    "passengerId": "P064",
+    "tripId": "T20260321_093",
+    "vehicleId": "AV-WH-001",
+    "rating": 5,
+    "feedbackText": "路线选择非常智能，几乎完美地避开了早高峰，比预计时间提前到达。",
+    "feedbackType": "路线规划",
+    "city": "武汉",
+    "route": "武汉天河机场 → 武汉站",
+    "tripStartTime": "2026-03-21T13:41:50.449Z",
+    "tripDuration": 25,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "避开拥堵"
+    ],
+    "createdAt": "2026-03-21T13:54:50.449Z"
+  },
+  {
+    "id": "F146",
+    "passengerId": "P001",
+    "tripId": "T20260321_146",
+    "vehicleId": "AV-CQ-002",
+    "rating": 4,
+    "feedbackText": "接驾很顺利，车辆停在最方便的位置，行李箱也很宽敞。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "大学城 → 沙坪坝",
+    "tripStartTime": "2026-03-20T19:24:33.540Z",
+    "tripDuration": 20,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "停车位置好",
+      "等待时间短"
+    ],
+    "createdAt": "2026-03-20T20:05:33.540Z"
+  },
+  {
+    "id": "F078",
+    "passengerId": "P033",
+    "tripId": "T20260319_078",
+    "vehicleId": "AV-GZ-002",
+    "rating": 3,
+    "feedbackText": "路况复杂时系统会减速较多，导致行程时间比预期稍长，但理解。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-03-19T15:18:44.395Z",
+    "tripDuration": 24,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "保守驾驶",
+      "偶有顿挫"
+    ],
+    "createdAt": "2026-03-19T15:33:44.395Z"
+  },
+  {
+    "id": "F036",
+    "passengerId": "P035",
+    "tripId": "T20260319_036",
+    "vehicleId": "AV-WH-003",
+    "rating": 3,
+    "feedbackText": "路线规划一般，和我自己规划的路线差不多，没有太大差别。",
+    "feedbackType": "路线规划",
+    "city": "武汉",
+    "route": "光谷广场 → 武汉站",
+    "tripStartTime": "2026-03-18T16:42:24.556Z",
+    "tripDuration": 24,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "绕行合理"
+    ],
+    "createdAt": "2026-03-18T17:20:24.556Z"
+  },
+  {
+    "id": "F112",
+    "passengerId": "P075",
+    "tripId": "T20260318_112",
+    "vehicleId": "AV-SH-003",
+    "rating": 1,
+    "feedbackText": "车内有明显异味，像是香水和汗味混合，全程开着窗才勉强忍受。",
+    "feedbackType": "车内环境",
+    "city": "上海",
+    "route": "浦东国际机场 → 陆家嘴",
+    "tripStartTime": "2026-03-18T14:27:23.087Z",
+    "tripDuration": 67,
+    "weather": "晴",
+    "sentiment": "negative",
+    "tags": [
+      "有异味"
+    ],
+    "createdAt": "2026-03-18T15:05:23.087Z"
+  },
+  {
+    "id": "F145",
+    "passengerId": "P038",
+    "tripId": "T20260318_145",
+    "vehicleId": "AV-CQ-001",
+    "rating": 4,
+    "feedbackText": "全程有安全员监控，遇到复杂路口时处理得非常谨慎，很有安全感。",
+    "feedbackType": "安全感受",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-03-18T01:49:19.474Z",
+    "tripDuration": 64,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "应急处理好",
+      "谨慎驾驶",
+      "安全放心"
+    ],
+    "createdAt": "2026-03-18T02:30:19.474Z"
+  },
+  {
+    "id": "F091",
+    "passengerId": "P057",
+    "tripId": "T20260318_091",
+    "vehicleId": "AV-WH-002",
+    "rating": 4,
+    "feedbackText": "导航路线优化得很好，虽然绕了一点但避开了主干道拥堵，总时间更短。",
+    "feedbackType": "路线规划",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-03-18T01:27:05.221Z",
+    "tripDuration": 69,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "导航精准"
+    ],
+    "createdAt": "2026-03-18T02:23:05.221Z"
+  },
+  {
+    "id": "F054",
+    "passengerId": "P044",
+    "tripId": "T20260317_054",
+    "vehicleId": "AV-GZ-004",
+    "rating": 3,
+    "feedbackText": "总体还行，偶尔有轻微的顿挫感，但不影响整体体验。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-03-17T13:08:09.811Z",
+    "tripDuration": 46,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "保守驾驶",
+      "速度偏慢",
+      "偶有顿挫"
+    ],
+    "createdAt": "2026-03-17T13:57:09.811Z"
+  },
+  {
+    "id": "F013",
+    "passengerId": "P075",
+    "tripId": "T20260317_013",
+    "vehicleId": "AV-CQ-003",
+    "rating": 1,
+    "feedbackText": "车辆停错了位置，我在A出口等，车停在了B出口，浪费了很多时间找车。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-03-17T01:36:24.381Z",
+    "tripDuration": 23,
+    "weather": "晴",
+    "sentiment": "negative",
+    "tags": [
+      "等待过长",
+      "位置不准",
+      "停错地点"
+    ],
+    "createdAt": "2026-03-17T02:13:24.381Z"
+  },
+  {
+    "id": "F011",
+    "passengerId": "P045",
+    "tripId": "T20260316_011",
+    "vehicleId": "AV-SH-001",
+    "rating": 3,
+    "feedbackText": "路线基本合理，中间走了一段小路，不过也没有明显绕路。",
+    "feedbackType": "路线规划",
+    "city": "上海",
+    "route": "浦东国际机场 → 陆家嘴",
+    "tripStartTime": "2026-03-16T02:03:43.995Z",
+    "tripDuration": 51,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "绕行合理",
+      "与预期相符",
+      "路线一般"
+    ],
+    "createdAt": "2026-03-16T02:24:43.995Z"
+  },
+  {
+    "id": "F137",
+    "passengerId": "P038",
+    "tripId": "T20260315_137",
+    "vehicleId": "AV-SH-004",
+    "rating": 5,
+    "feedbackText": "接驾很顺利，车辆停在最方便的位置，行李箱也很宽敞。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "浦东国际机场 → 陆家嘴",
+    "tripStartTime": "2026-03-15T13:49:24.204Z",
+    "tripDuration": 54,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "停车位置好",
+      "等待时间短"
+    ],
+    "createdAt": "2026-03-15T14:48:24.204Z"
+  },
+  {
+    "id": "F005",
+    "passengerId": "P022",
+    "tripId": "T20260314_005",
+    "vehicleId": "AV-WH-001",
+    "rating": 3,
+    "feedbackText": "整体感觉安全，只是在一次变道时感觉距离稍近，有点紧张。",
+    "feedbackType": "安全感受",
+    "city": "武汉",
+    "route": "光谷广场 → 武汉站",
+    "tripStartTime": "2026-03-14T04:01:01.060Z",
+    "tripDuration": 15,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "整体安全"
+    ],
+    "createdAt": "2026-03-14T05:00:01.060Z"
+  },
+  {
+    "id": "F053",
+    "passengerId": "P045",
+    "tripId": "T20260310_053",
+    "vehicleId": "AV-SH-004",
+    "rating": 3,
+    "feedbackText": "上车时行李放置有点不方便，后备箱有点小，大行李要侧着放。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-03-09T23:41:25.851Z",
+    "tripDuration": 25,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "稍有等待"
+    ],
+    "createdAt": "2026-03-10T00:30:25.851Z"
+  },
+  {
+    "id": "F034",
+    "passengerId": "P030",
+    "tripId": "T20260310_034",
+    "vehicleId": "AV-WH-001",
+    "rating": 2,
+    "feedbackText": "系统显示车已到达，但我在约定地点找了10分钟都没找到车，最后取消了。",
+    "feedbackType": "接驾体验",
+    "city": "武汉",
+    "route": "光谷广场 → 武汉站",
+    "tripStartTime": "2026-03-09T17:03:58.252Z",
+    "tripDuration": 42,
+    "weather": "晴",
+    "sentiment": "negative",
+    "tags": [
+      "位置不准",
+      "等待过长"
+    ],
+    "createdAt": "2026-03-09T17:26:58.252Z"
+  },
+  {
+    "id": "F058",
+    "passengerId": "P028",
+    "tripId": "T20260309_058",
+    "vehicleId": "AV-SH-001",
+    "rating": 3,
+    "feedbackText": "路线规划一般，和我自己规划的路线差不多，没有太大差别。",
+    "feedbackType": "路线规划",
+    "city": "上海",
+    "route": "浦东国际机场 → 陆家嘴",
+    "tripStartTime": "2026-03-08T20:18:18.525Z",
+    "tripDuration": 50,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "与预期相符",
+      "路线一般"
+    ],
+    "createdAt": "2026-03-08T20:31:18.525Z"
+  },
+  {
+    "id": "F148",
+    "passengerId": "P056",
+    "tripId": "T20260309_148",
+    "vehicleId": "AV-GZ-001",
+    "rating": 5,
+    "feedbackText": "路线规划很合理，全程没有走冤枉路，比我自己导航还快10分钟。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "广州南站 → 天河体育中心",
+    "tripStartTime": "2026-03-08T19:30:12.771Z",
+    "tripDuration": 21,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "路线最优",
+      "节省时间",
+      "避开拥堵"
+    ],
+    "createdAt": "2026-03-08T20:10:12.771Z"
+  },
+  {
+    "id": "F092",
+    "passengerId": "P011",
+    "tripId": "T20260308_092",
+    "vehicleId": "AV-CQ-001",
+    "rating": 4,
+    "feedbackText": "紧急情况处理得当，突然有电动车闯入时系统快速响应，没有任何危险。",
+    "feedbackType": "安全感受",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-03-08T14:42:24.169Z",
+    "tripDuration": 70,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "安全放心",
+      "应急处理好"
+    ],
+    "createdAt": "2026-03-08T15:41:24.169Z"
+  },
+  {
+    "id": "F004",
+    "passengerId": "P044",
+    "tripId": "T20260308_004",
+    "vehicleId": "AV-SH-002",
+    "rating": 5,
+    "feedbackText": "到达接驾点非常准时，等待时间不到2分钟，导航指引也很清晰。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-03-07T16:47:51.908Z",
+    "tripDuration": 73,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "接驾便利",
+      "等待时间短",
+      "准时到达"
+    ],
+    "createdAt": "2026-03-07T17:09:51.908Z"
+  },
+  {
+    "id": "F030",
+    "passengerId": "P044",
+    "tripId": "T20260307_030",
+    "vehicleId": "AV-WH-001",
+    "rating": 5,
+    "feedbackText": "系统自动规避了拥堵路段，绕行路线很科学，节省了不少时间。",
+    "feedbackType": "路线规划",
+    "city": "武汉",
+    "route": "武汉天河机场 → 武汉站",
+    "tripStartTime": "2026-03-06T18:14:01.583Z",
+    "tripDuration": 57,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "路线最优"
+    ],
+    "createdAt": "2026-03-06T18:44:01.583Z"
+  },
+  {
+    "id": "F117",
+    "passengerId": "P037",
+    "tripId": "T20260305_117",
+    "vehicleId": "AV-GZ-002",
+    "rating": 4,
+    "feedbackText": "紧急情况处理得当，突然有电动车闯入时系统快速响应，没有任何危险。",
+    "feedbackType": "安全感受",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-03-05T04:04:54.052Z",
+    "tripDuration": 35,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "行人判断准"
+    ],
+    "createdAt": "2026-03-05T04:58:54.052Z"
+  },
+  {
+    "id": "F031",
+    "passengerId": "P015",
+    "tripId": "T20260305_031",
+    "vehicleId": "AV-CQ-002",
+    "rating": 4,
+    "feedbackText": "到达接驾点非常准时，等待时间不到2分钟，导航指引也很清晰。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "江北国际机场 → 解放碑",
+    "tripStartTime": "2026-03-04T21:57:39.491Z",
+    "tripDuration": 34,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "停车位置好",
+      "接驾便利"
+    ],
+    "createdAt": "2026-03-04T22:35:39.491Z"
+  },
+  {
+    "id": "F065",
+    "passengerId": "P003",
+    "tripId": "T20260303_065",
+    "vehicleId": "AV-SH-005",
+    "rating": 4,
+    "feedbackText": "屏幕显示信息清晰，行程进度一目了然，操作也很简单。",
+    "feedbackType": "车内环境",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-03-03T05:56:26.184Z",
+    "tripDuration": 51,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "整洁干净",
+      "空调舒适",
+      "无异味"
+    ],
+    "createdAt": "2026-03-03T06:36:26.184Z"
+  },
+  {
+    "id": "F129",
+    "passengerId": "P011",
+    "tripId": "T20260302_129",
+    "vehicleId": "AV-CQ-003",
+    "rating": 3,
+    "feedbackText": "总体还行，偶尔有轻微的顿挫感，但不影响整体体验。",
+    "feedbackType": "驾驶体验",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-03-02T04:59:11.762Z",
+    "tripDuration": 63,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "速度偏慢",
+      "保守驾驶",
+      "偶有顿挫"
+    ],
+    "createdAt": "2026-03-02T05:47:11.762Z"
+  },
+  {
+    "id": "F042",
+    "passengerId": "P025",
+    "tripId": "T20260301_042",
+    "vehicleId": "AV-SH-005",
+    "rating": 3,
+    "feedbackText": "整体没有安全问题，偶尔遇到行人时刹车力度稍大，有点突兀。",
+    "feedbackType": "安全感受",
+    "city": "上海",
+    "route": "浦东国际机场 → 陆家嘴",
+    "tripStartTime": "2026-03-01T12:17:05.973Z",
+    "tripDuration": 50,
+    "weather": "大雨",
+    "sentiment": "neutral",
+    "tags": [
+      "偶有紧张"
+    ],
+    "createdAt": "2026-03-01T13:13:05.973Z"
+  },
+  {
+    "id": "F096",
+    "passengerId": "P002",
+    "tripId": "T20260228_096",
+    "vehicleId": "AV-GZ-004",
+    "rating": 3,
+    "feedbackText": "驾驶比较保守，有时候绿灯了还要停顿一下才启动，不过安全第一。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-02-28T14:38:02.265Z",
+    "tripDuration": 25,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "速度偏慢",
+      "偶有顿挫"
+    ],
+    "createdAt": "2026-02-28T15:28:02.265Z"
+  },
+  {
+    "id": "F094",
+    "passengerId": "P022",
+    "tripId": "T20260228_094",
+    "vehicleId": "AV-GZ-003",
+    "rating": 5,
+    "feedbackText": "车辆提前到达指定位置，上车非常方便，没有找车找不到的问题。",
+    "feedbackType": "接驾体验",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-02-28T05:14:28.623Z",
+    "tripDuration": 65,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "准时到达",
+      "接驾便利"
+    ],
+    "createdAt": "2026-02-28T05:51:28.623Z"
+  },
+  {
+    "id": "F027",
+    "passengerId": "P008",
+    "tripId": "T20260228_027",
+    "vehicleId": "AV-CQ-002",
+    "rating": 4,
+    "feedbackText": "到达接驾点非常准时，等待时间不到2分钟，导航指引也很清晰。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-02-27T17:44:18.169Z",
+    "tripDuration": 19,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "等待时间短",
+      "准时到达",
+      "接驾便利"
+    ],
+    "createdAt": "2026-02-27T18:40:18.169Z"
+  },
+  {
+    "id": "F039",
+    "passengerId": "P033",
+    "tripId": "T20260227_039",
+    "vehicleId": "AV-CQ-001",
+    "rating": 4,
+    "feedbackText": "全程有安全员监控，遇到复杂路口时处理得非常谨慎，很有安全感。",
+    "feedbackType": "安全感受",
+    "city": "重庆",
+    "route": "大学城 → 沙坪坝",
+    "tripStartTime": "2026-02-27T09:17:27.331Z",
+    "tripDuration": 50,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "应急处理好"
+    ],
+    "createdAt": "2026-02-27T09:52:27.331Z"
+  },
+  {
+    "id": "F003",
+    "passengerId": "P036",
+    "tripId": "T20260226_003",
+    "vehicleId": "AV-GZ-001",
+    "rating": 3,
+    "feedbackText": "接驾位置稍微有些偏，走了大概50米才到，不算麻烦。",
+    "feedbackType": "接驾体验",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-02-26T05:23:56.673Z",
+    "tripDuration": 63,
+    "weather": "阴",
+    "sentiment": "neutral",
+    "tags": [
+      "稍有等待"
+    ],
+    "createdAt": "2026-02-26T06:23:56.673Z"
+  },
+  {
+    "id": "F062",
+    "passengerId": "P079",
+    "tripId": "T20260225_062",
+    "vehicleId": "AV-GZ-003",
+    "rating": 3,
+    "feedbackText": "整体感觉安全，只是在一次变道时感觉距离稍近，有点紧张。",
+    "feedbackType": "安全感受",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-02-25T07:43:23.300Z",
+    "tripDuration": 65,
+    "weather": "阴",
+    "sentiment": "neutral",
+    "tags": [
+      "偶有紧张"
+    ],
+    "createdAt": "2026-02-25T08:10:23.300Z"
+  },
+  {
+    "id": "F139",
+    "passengerId": "P037",
+    "tripId": "T20260224_139",
+    "vehicleId": "AV-GZ-001",
+    "rating": 5,
+    "feedbackText": "全程有安全员监控，遇到复杂路口时处理得非常谨慎，很有安全感。",
+    "feedbackType": "安全感受",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-02-24T11:11:05.655Z",
+    "tripDuration": 28,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "安全放心",
+      "行人判断准"
+    ],
+    "createdAt": "2026-02-24T12:05:05.655Z"
+  },
+  {
+    "id": "F012",
+    "passengerId": "P061",
+    "tripId": "T20260223_012",
+    "vehicleId": "AV-GZ-001",
+    "rating": 5,
+    "feedbackText": "接驾位置就在出口正前方，下楼就能看到车，非常方便。",
+    "feedbackType": "接驾体验",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-02-23T13:28:38.133Z",
+    "tripDuration": 55,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "等待时间短",
+      "准时到达"
+    ],
+    "createdAt": "2026-02-23T13:56:38.133Z"
+  },
+  {
+    "id": "F147",
+    "passengerId": "P074",
+    "tripId": "T20260221_147",
+    "vehicleId": "AV-GZ-004",
+    "rating": 3,
+    "feedbackText": "导航选择了一条我平时不走的路，时间差不多，就是不熟悉有点担心。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-02-21T05:56:24.453Z",
+    "tripDuration": 45,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "路线一般"
+    ],
+    "createdAt": "2026-02-21T06:28:24.453Z"
+  },
+  {
+    "id": "F075",
+    "passengerId": "P027",
+    "tripId": "T20260221_075",
+    "vehicleId": "AV-GZ-003",
+    "rating": 3,
+    "feedbackText": "上车时行李放置有点不方便，后备箱有点小，大行李要侧着放。",
+    "feedbackType": "接驾体验",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-02-21T02:38:25.258Z",
+    "tripDuration": 66,
+    "weather": "大雨",
+    "sentiment": "neutral",
+    "tags": [
+      "稍有等待",
+      "位置稍偏"
+    ],
+    "createdAt": "2026-02-21T03:23:25.258Z"
+  },
+  {
+    "id": "F097",
+    "passengerId": "P029",
+    "tripId": "T20260220_097",
+    "vehicleId": "AV-SH-004",
+    "rating": 3,
+    "feedbackText": "速度控制偏保守，超车时机有时候不够果断，不过没有安全隐患。",
+    "feedbackType": "驾驶体验",
+    "city": "上海",
+    "route": "虹桥火车站 → 人民广场",
+    "tripStartTime": "2026-02-20T07:56:03.037Z",
+    "tripDuration": 44,
+    "weather": "大雨",
+    "sentiment": "neutral",
+    "tags": [
+      "保守驾驶",
+      "速度偏慢",
+      "偶有顿挫"
+    ],
+    "createdAt": "2026-02-20T08:09:03.037Z"
+  },
+  {
+    "id": "F066",
+    "passengerId": "P047",
+    "tripId": "T20260220_066",
+    "vehicleId": "AV-SH-005",
+    "rating": 5,
+    "feedbackText": "全程有安全员监控，遇到复杂路口时处理得非常谨慎，很有安全感。",
+    "feedbackType": "安全感受",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-02-20T01:20:42.748Z",
+    "tripDuration": 27,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "应急处理好",
+      "安全放心"
+    ],
+    "createdAt": "2026-02-20T02:14:42.748Z"
+  },
+  {
+    "id": "F021",
+    "passengerId": "P012",
+    "tripId": "T20260218_021",
+    "vehicleId": "AV-WH-003",
+    "rating": 4,
+    "feedbackText": "车辆提前到达指定位置，上车非常方便，没有找车找不到的问题。",
+    "feedbackType": "接驾体验",
+    "city": "武汉",
+    "route": "汉口火车站 → 江汉路",
+    "tripStartTime": "2026-02-18T13:01:39.343Z",
+    "tripDuration": 53,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "停车位置好"
+    ],
+    "createdAt": "2026-02-18T13:22:39.343Z"
+  },
+  {
+    "id": "F007",
+    "passengerId": "P001",
+    "tripId": "T20260218_007",
+    "vehicleId": "AV-SH-005",
+    "rating": 4,
+    "feedbackText": "高速段行驶特别平稳，跟车距离保持得很好，完全不担心安全问题。",
+    "feedbackType": "驾驶体验",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-02-18T10:41:48.026Z",
+    "tripDuration": 65,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "跟车稳定",
+      "平稳舒适",
+      "加减速顺滑"
+    ],
+    "createdAt": "2026-02-18T11:38:48.026Z"
+  },
+  {
+    "id": "F088",
+    "passengerId": "P067",
+    "tripId": "T20260218_088",
+    "vehicleId": "AV-GZ-002",
+    "rating": 3,
+    "feedbackText": "路线规划一般，和我自己规划的路线差不多，没有太大差别。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-02-17T21:08:18.209Z",
+    "tripDuration": 24,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "路线一般"
+    ],
+    "createdAt": "2026-02-17T21:19:18.209Z"
+  },
+  {
+    "id": "F067",
+    "passengerId": "P052",
+    "tripId": "T20260218_067",
+    "vehicleId": "AV-WH-001",
+    "rating": 3,
+    "feedbackText": "导航选择了一条我平时不走的路，时间差不多，就是不熟悉有点担心。",
+    "feedbackType": "路线规划",
+    "city": "武汉",
+    "route": "汉口火车站 → 江汉路",
+    "tripStartTime": "2026-02-17T19:52:04.401Z",
+    "tripDuration": 15,
+    "weather": "大雨",
+    "sentiment": "neutral",
+    "tags": [
+      "与预期相符",
+      "路线一般",
+      "绕行合理"
+    ],
+    "createdAt": "2026-02-17T19:59:04.401Z"
+  },
+  {
+    "id": "F020",
+    "passengerId": "P007",
+    "tripId": "T20260216_020",
+    "vehicleId": "AV-CQ-003",
+    "rating": 5,
+    "feedbackText": "系统自动规避了拥堵路段，绕行路线很科学，节省了不少时间。",
+    "feedbackType": "路线规划",
+    "city": "重庆",
+    "route": "江北国际机场 → 解放碑",
+    "tripStartTime": "2026-02-16T04:07:28.206Z",
+    "tripDuration": 46,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "路线最优",
+      "导航精准"
+    ],
+    "createdAt": "2026-02-16T04:32:28.206Z"
+  },
+  {
+    "id": "F143",
+    "passengerId": "P080",
+    "tripId": "T20260214_143",
+    "vehicleId": "AV-WH-003",
+    "rating": 4,
+    "feedbackText": "接驾很顺利，车辆停在最方便的位置，行李箱也很宽敞。",
+    "feedbackType": "接驾体验",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-02-14T02:10:06.459Z",
+    "tripDuration": 60,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "停车位置好",
+      "等待时间短"
+    ],
+    "createdAt": "2026-02-14T02:17:06.459Z"
+  },
+  {
+    "id": "F052",
+    "passengerId": "P022",
+    "tripId": "T20260213_052",
+    "vehicleId": "AV-GZ-003",
+    "rating": 1,
+    "feedbackText": "路线选择错误，走了一条正在修路的道路，颠簸了很长时间。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-02-13T09:58:59.064Z",
+    "tripDuration": 19,
+    "weather": "大雨",
+    "sentiment": "negative",
+    "tags": [
+      "未避开拥堵",
+      "走修路路段"
+    ],
+    "createdAt": "2026-02-13T10:48:59.064Z"
+  },
+  {
+    "id": "F099",
+    "passengerId": "P036",
+    "tripId": "T20260212_099",
+    "vehicleId": "AV-WH-001",
+    "rating": 3,
+    "feedbackText": "路况复杂时系统会减速较多，导致行程时间比预期稍长，但理解。",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "汉口火车站 → 江汉路",
+    "tripStartTime": "2026-02-12T11:05:35.678Z",
+    "tripDuration": 73,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "速度偏慢"
+    ],
+    "createdAt": "2026-02-12T11:42:35.678Z"
+  },
+  {
+    "id": "F103",
+    "passengerId": "P021",
+    "tripId": "T20260212_103",
+    "vehicleId": "AV-GZ-003",
+    "rating": 3,
+    "feedbackText": "上车时行李放置有点不方便，后备箱有点小，大行李要侧着放。",
+    "feedbackType": "接驾体验",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-02-12T07:05:10.476Z",
+    "tripDuration": 73,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "位置稍偏",
+      "稍有等待"
+    ],
+    "createdAt": "2026-02-12T07:42:10.476Z"
+  },
+  {
+    "id": "F118",
+    "passengerId": "P067",
+    "tripId": "T20260212_118",
+    "vehicleId": "AV-GZ-004",
+    "rating": 3,
+    "feedbackText": "总体还行，偶尔有轻微的顿挫感，但不影响整体体验。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-02-12T06:39:49.636Z",
+    "tripDuration": 58,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "偶有顿挫",
+      "速度偏慢"
+    ],
+    "createdAt": "2026-02-12T06:44:49.636Z"
+  },
+  {
+    "id": "F074",
+    "passengerId": "P051",
+    "tripId": "T20260211_074",
+    "vehicleId": "AV-CQ-003",
+    "rating": 3,
+    "feedbackText": "空调噪音稍大，不影响使用，但如果能改善一下就更好了。",
+    "feedbackType": "车内环境",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-02-11T15:31:06.120Z",
+    "tripDuration": 71,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "空调噪音"
+    ],
+    "createdAt": "2026-02-11T15:41:06.120Z"
+  },
+  {
+    "id": "F049",
+    "passengerId": "P014",
+    "tripId": "T20260211_049",
+    "vehicleId": "AV-WH-003",
+    "rating": 5,
+    "feedbackText": "屏幕显示信息清晰，行程进度一目了然，操作也很简单。",
+    "feedbackType": "车内环境",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-02-11T12:25:24.080Z",
+    "tripDuration": 40,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "无异味"
+    ],
+    "createdAt": "2026-02-11T12:32:24.080Z"
+  },
+  {
+    "id": "F043",
+    "passengerId": "P010",
+    "tripId": "T20260209_043",
+    "vehicleId": "AV-WH-002",
+    "rating": 3,
+    "feedbackText": "总体还行，偶尔有轻微的顿挫感，但不影响整体体验。",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "武汉天河机场 → 武汉站",
+    "tripStartTime": "2026-02-09T12:21:15.863Z",
+    "tripDuration": 31,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "偶有顿挫",
+      "速度偏慢",
+      "保守驾驶"
+    ],
+    "createdAt": "2026-02-09T12:36:15.863Z"
+  },
+  {
+    "id": "F064",
+    "passengerId": "P056",
+    "tripId": "T20260208_064",
+    "vehicleId": "AV-GZ-001",
+    "rating": 3,
+    "feedbackText": "遇到复杂路口时系统处理稍慢，不过最终还是安全通过了。",
+    "feedbackType": "安全感受",
+    "city": "广州",
+    "route": "白云国际机场 → 珠江新城",
+    "tripStartTime": "2026-02-08T05:39:09.980Z",
+    "tripDuration": 18,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "整体安全",
+      "偶有紧张"
+    ],
+    "createdAt": "2026-02-08T05:58:09.980Z"
+  },
+  {
+    "id": "F107",
+    "passengerId": "P052",
+    "tripId": "T20260208_107",
+    "vehicleId": "AV-GZ-001",
+    "rating": 3,
+    "feedbackText": "车内屏幕有点旧，反应稍慢，功能都有只是操作流畅度一般。",
+    "feedbackType": "车内环境",
+    "city": "广州",
+    "route": "广州南站 → 天河体育中心",
+    "tripStartTime": "2026-02-08T03:48:15.212Z",
+    "tripDuration": 37,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "空调噪音"
+    ],
+    "createdAt": "2026-02-08T04:04:15.212Z"
+  },
+  {
+    "id": "F044",
+    "passengerId": "P072",
+    "tripId": "T20260207_044",
+    "vehicleId": "AV-SH-003",
+    "rating": 1,
+    "feedbackText": "系统显示车已到达，但我在约定地点找了10分钟都没找到车，最后取消了。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-02-07T07:46:51.338Z",
+    "tripDuration": 28,
+    "weather": "小雨",
+    "sentiment": "negative",
+    "tags": [
+      "找车困难",
+      "等待过长",
+      "停错地点"
+    ],
+    "createdAt": "2026-02-07T07:52:51.338Z"
+  },
+  {
+    "id": "F086",
+    "passengerId": "P047",
+    "tripId": "T20260206_086",
+    "vehicleId": "AV-SH-001",
+    "rating": 3,
+    "feedbackText": "路线基本合理，中间走了一段小路，不过也没有明显绕路。",
+    "feedbackType": "路线规划",
+    "city": "上海",
+    "route": "虹桥火车站 → 人民广场",
+    "tripStartTime": "2026-02-06T10:20:44.116Z",
+    "tripDuration": 21,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "路线一般",
+      "绕行合理"
+    ],
+    "createdAt": "2026-02-06T11:18:44.116Z"
+  },
+  {
+    "id": "F095",
+    "passengerId": "P055",
+    "tripId": "T20260206_095",
+    "vehicleId": "AV-SH-004",
+    "rating": 5,
+    "feedbackText": "全程没有多余的晃动，坐在后座完全可以安心看手机，很棒的体验！",
+    "feedbackType": "驾驶体验",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-02-06T08:39:40.075Z",
+    "tripDuration": 16,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "驾驶自然",
+      "平稳舒适",
+      "跟车稳定"
+    ],
+    "createdAt": "2026-02-06T08:59:40.075Z"
+  },
+  {
+    "id": "F100",
+    "passengerId": "P038",
+    "tripId": "T20260206_100",
+    "vehicleId": "AV-SH-004",
+    "rating": 3,
+    "feedbackText": "空调噪音稍大，不影响使用，但如果能改善一下就更好了。",
+    "feedbackType": "车内环境",
+    "city": "上海",
+    "route": "静安寺 → 外滩",
+    "tripStartTime": "2026-02-06T01:25:46.517Z",
+    "tripDuration": 67,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "基本整洁"
+    ],
+    "createdAt": "2026-02-06T02:11:46.517Z"
+  },
+  {
+    "id": "F018",
+    "passengerId": "P038",
+    "tripId": "T20260205_018",
+    "vehicleId": "AV-SH-005",
+    "rating": 4,
+    "feedbackText": "全程没有多余的晃动，坐在后座完全可以安心看手机，很棒的体验！",
+    "feedbackType": "驾驶体验",
+    "city": "上海",
+    "route": "虹桥火车站 → 人民广场",
+    "tripStartTime": "2026-02-04T22:26:50.172Z",
+    "tripDuration": 43,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "加减速顺滑",
+      "跟车稳定"
+    ],
+    "createdAt": "2026-02-04T22:42:50.172Z"
+  },
+  {
+    "id": "F083",
+    "passengerId": "P051",
+    "tripId": "T20260205_083",
+    "vehicleId": "AV-WH-001",
+    "rating": 4,
+    "feedbackText": "到达接驾点非常准时，等待时间不到2分钟，导航指引也很清晰。",
+    "feedbackType": "接驾体验",
+    "city": "武汉",
+    "route": "武汉天河机场 → 武汉站",
+    "tripStartTime": "2026-02-04T22:21:06.271Z",
+    "tripDuration": 48,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "准时到达"
+    ],
+    "createdAt": "2026-02-04T22:29:06.271Z"
+  },
+  {
+    "id": "F046",
+    "passengerId": "P009",
+    "tripId": "T20260204_046",
+    "vehicleId": "AV-SH-003",
+    "rating": 4,
+    "feedbackText": "车辆提前到达指定位置，上车非常方便，没有找车找不到的问题。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "tripStartTime": "2026-02-04T06:48:29.687Z",
+    "tripDuration": 67,
+    "weather": "多云",
+    "sentiment": "positive",
+    "tags": [
+      "停车位置好"
+    ],
+    "createdAt": "2026-02-04T07:10:29.687Z"
+  },
+  {
+    "id": "F121",
+    "passengerId": "P060",
+    "tripId": "T20260203_121",
+    "vehicleId": "AV-GZ-001",
+    "rating": 3,
+    "feedbackText": "接驾位置稍微有些偏，走了大概50米才到，不算麻烦。",
+    "feedbackType": "接驾体验",
+    "city": "广州",
+    "route": "南沙客运港 → 琶洲",
+    "tripStartTime": "2026-02-03T11:17:52.345Z",
+    "tripDuration": 50,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "稍有等待"
+    ],
+    "createdAt": "2026-02-03T11:43:52.345Z"
+  },
+  {
+    "id": "F024",
+    "passengerId": "P062",
+    "tripId": "T20260203_024",
+    "vehicleId": "AV-WH-003",
+    "rating": 1,
+    "feedbackText": "车内空调出风口有霉味，感觉很久没清洁了，整个行程都很不适。",
+    "feedbackType": "车内环境",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-02-03T03:22:48.883Z",
+    "tripDuration": 31,
+    "weather": "大雨",
+    "sentiment": "negative",
+    "tags": [
+      "有异味"
+    ],
+    "createdAt": "2026-02-03T03:47:48.883Z"
+  },
+  {
+    "id": "F135",
+    "passengerId": "P005",
+    "tripId": "T20260203_135",
+    "vehicleId": "AV-GZ-004",
+    "rating": 3,
+    "feedbackText": "车内屏幕有点旧，反应稍慢，功能都有只是操作流畅度一般。",
+    "feedbackType": "车内环境",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-02-02T21:59:42.326Z",
+    "tripDuration": 29,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "屏幕老旧"
+    ],
+    "createdAt": "2026-02-02T22:22:42.326Z"
+  },
+  {
+    "id": "F014",
+    "passengerId": "P046",
+    "tripId": "T20260202_014",
+    "vehicleId": "AV-SH-003",
+    "rating": 4,
+    "feedbackText": "紧急情况处理得当，突然有电动车闯入时系统快速响应，没有任何危险。",
+    "feedbackType": "安全感受",
+    "city": "上海",
+    "route": "浦东国际机场 → 陆家嘴",
+    "tripStartTime": "2026-02-02T10:52:37.608Z",
+    "tripDuration": 18,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "应急处理好",
+      "安全放心"
+    ],
+    "createdAt": "2026-02-02T11:20:37.608Z"
+  },
+  {
+    "id": "F131",
+    "passengerId": "P045",
+    "tripId": "T20260202_131",
+    "vehicleId": "AV-SH-003",
+    "rating": 3,
+    "feedbackText": "路线基本合理，中间走了一段小路，不过也没有明显绕路。",
+    "feedbackType": "路线规划",
+    "city": "上海",
+    "route": "静安寺 → 外滩",
+    "tripStartTime": "2026-02-01T18:35:37.546Z",
+    "tripDuration": 28,
+    "weather": "阴",
+    "sentiment": "neutral",
+    "tags": [
+      "路线一般"
+    ],
+    "createdAt": "2026-02-01T19:03:37.546Z"
+  },
+  {
+    "id": "F051",
+    "passengerId": "P010",
+    "tripId": "T20260201_051",
+    "vehicleId": "AV-GZ-002",
+    "rating": 4,
+    "feedbackText": "路线规划很合理，全程没有走冤枉路，比我自己导航还快10分钟。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-02-01T13:58:40.592Z",
+    "tripDuration": 52,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "导航精准",
+      "路线最优",
+      "节省时间"
+    ],
+    "createdAt": "2026-02-01T14:10:40.592Z"
+  },
+  {
+    "id": "F079",
+    "passengerId": "P053",
+    "tripId": "T20260201_079",
+    "vehicleId": "AV-GZ-003",
+    "rating": 3,
+    "feedbackText": "路况复杂时系统会减速较多，导致行程时间比预期稍长，但理解。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-02-01T13:18:21.635Z",
+    "tripDuration": 64,
+    "weather": "小雨",
+    "sentiment": "neutral",
+    "tags": [
+      "保守驾驶",
+      "偶有顿挫"
+    ],
+    "createdAt": "2026-02-01T13:24:21.635Z"
+  },
+  {
+    "id": "F122",
+    "passengerId": "P040",
+    "tripId": "T20260201_122",
+    "vehicleId": "AV-GZ-004",
+    "rating": 3,
+    "feedbackText": "路线基本合理，中间走了一段小路，不过也没有明显绕路。",
+    "feedbackType": "路线规划",
+    "city": "广州",
+    "route": "广州南站 → 天河体育中心",
+    "tripStartTime": "2026-01-31T21:23:48.350Z",
+    "tripDuration": 56,
+    "weather": "多云",
+    "sentiment": "neutral",
+    "tags": [
+      "路线一般",
+      "绕行合理"
+    ],
+    "createdAt": "2026-01-31T22:21:48.350Z"
+  },
+  {
+    "id": "F055",
+    "passengerId": "P064",
+    "tripId": "T20260131_055",
+    "vehicleId": "AV-CQ-002",
+    "rating": 5,
+    "feedbackText": "过隧道和高架路段表现出色，速度控制得恰到好处。",
+    "feedbackType": "驾驶体验",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-01-31T10:53:39.019Z",
+    "tripDuration": 29,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "驾驶自然",
+      "跟车稳定"
+    ],
+    "createdAt": "2026-01-31T11:22:39.019Z"
+  },
+  {
+    "id": "F029",
+    "passengerId": "P020",
+    "tripId": "T20260131_029",
+    "vehicleId": "AV-GZ-003",
+    "rating": 3,
+    "feedbackText": "驾驶比较保守，有时候绿灯了还要停顿一下才启动，不过安全第一。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "广州南站 → 天河体育中心",
+    "tripStartTime": "2026-01-31T06:08:25.079Z",
+    "tripDuration": 16,
+    "weather": "阴",
+    "sentiment": "neutral",
+    "tags": [
+      "保守驾驶",
+      "速度偏慢"
+    ],
+    "createdAt": "2026-01-31T06:16:25.079Z"
+  },
+  {
+    "id": "F108",
+    "passengerId": "P001",
+    "tripId": "T20260130_108",
+    "vehicleId": "AV-CQ-003",
+    "rating": 4,
+    "feedbackText": "车辆提前到达指定位置，上车非常方便，没有找车找不到的问题。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "江北国际机场 → 解放碑",
+    "tripStartTime": "2026-01-29T22:29:44.202Z",
+    "tripDuration": 71,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "准时到达"
+    ],
+    "createdAt": "2026-01-29T23:25:44.202Z"
+  },
+  {
+    "id": "F116",
+    "passengerId": "P003",
+    "tripId": "T20260127_116",
+    "vehicleId": "AV-CQ-002",
+    "rating": 1,
+    "feedbackText": "明明有更快的路线系统不走，非要走拥堵的主干道，多花了20分钟。",
+    "feedbackType": "路线规划",
+    "city": "重庆",
+    "route": "江北国际机场 → 解放碑",
+    "tripStartTime": "2026-01-27T03:05:33.744Z",
+    "tripDuration": 23,
+    "weather": "小雨",
+    "sentiment": "negative",
+    "tags": [
+      "未避开拥堵"
+    ],
+    "createdAt": "2026-01-27T03:58:33.744Z"
+  },
+  {
+    "id": "F009",
+    "passengerId": "P061",
+    "tripId": "T20260127_009",
+    "vehicleId": "AV-WH-003",
+    "rating": 2,
+    "feedbackText": "变道时没有预警，突然向右变道，吓了一跳，希望优化变道逻辑。",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-01-26T18:04:04.807Z",
+    "tripDuration": 17,
+    "weather": "晴",
+    "sentiment": "negative",
+    "tags": [
+      "变道突然"
+    ],
+    "createdAt": "2026-01-26T18:51:04.807Z"
+  },
+  {
+    "id": "F111",
+    "passengerId": "P010",
+    "tripId": "T20260126_111",
+    "vehicleId": "AV-WH-001",
+    "rating": 5,
+    "feedbackText": "车辆提前到达指定位置，上车非常方便，没有找车找不到的问题。",
+    "feedbackType": "接驾体验",
+    "city": "武汉",
+    "route": "光谷广场 → 武汉站",
+    "tripStartTime": "2026-01-26T14:04:21.747Z",
+    "tripDuration": 15,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "接驾便利",
+      "停车位置好",
+      "准时到达"
+    ],
+    "createdAt": "2026-01-26T14:35:21.747Z"
+  },
+  {
+    "id": "F104",
+    "passengerId": "P024",
+    "tripId": "T20260126_104",
+    "vehicleId": "AV-WH-003",
+    "rating": 1,
+    "feedbackText": "行驶过程中两次鬼打墙，在同一位置来回行驶，浪费了很多时间。",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "汉口火车站 → 江汉路",
+    "tripStartTime": "2026-01-26T00:53:03.345Z",
+    "tripDuration": 54,
+    "weather": "小雨",
+    "sentiment": "negative",
+    "tags": [
+      "急加速"
+    ],
+    "createdAt": "2026-01-26T01:48:03.345Z"
+  },
+  {
+    "id": "F102",
+    "passengerId": "P057",
+    "tripId": "T20260125_102",
+    "vehicleId": "AV-WH-001",
+    "rating": 3,
+    "feedbackText": "总体还行，偶尔有轻微的顿挫感，但不影响整体体验。",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-01-25T14:49:52.833Z",
+    "tripDuration": 36,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "偶有顿挫",
+      "速度偏慢"
+    ],
+    "createdAt": "2026-01-25T15:24:52.833Z"
+  },
+  {
+    "id": "F008",
+    "passengerId": "P065",
+    "tripId": "T20260125_008",
+    "vehicleId": "AV-SH-001",
+    "rating": 1,
+    "feedbackText": "等待时间超过20分钟，系统一直提示车辆将至却迟迟不到，误了会议。",
+    "feedbackType": "接驾体验",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-01-25T08:58:14.599Z",
+    "tripDuration": 60,
+    "weather": "阴",
+    "sentiment": "negative",
+    "tags": [
+      "停错地点"
+    ],
+    "createdAt": "2026-01-25T09:04:14.599Z"
+  },
+  {
+    "id": "F019",
+    "passengerId": "P003",
+    "tripId": "T20260124_019",
+    "vehicleId": "AV-CQ-003",
+    "rating": 4,
+    "feedbackText": "紧急情况处理得当，突然有电动车闯入时系统快速响应，没有任何危险。",
+    "feedbackType": "安全感受",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-01-24T14:22:24.041Z",
+    "tripDuration": 64,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "行人判断准",
+      "应急处理好"
+    ],
+    "createdAt": "2026-01-24T14:46:24.041Z"
+  },
+  {
+    "id": "F128",
+    "passengerId": "P070",
+    "tripId": "T20260124_128",
+    "vehicleId": "AV-CQ-003",
+    "rating": 5,
+    "feedbackText": "车辆提前到达指定位置，上车非常方便，没有找车找不到的问题。",
+    "feedbackType": "接驾体验",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-01-24T13:54:55.732Z",
+    "tripDuration": 25,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "等待时间短",
+      "接驾便利",
+      "准时到达"
+    ],
+    "createdAt": "2026-01-24T14:30:55.732Z"
+  },
+  {
+    "id": "F134",
+    "passengerId": "P070",
+    "tripId": "T20260124_134",
+    "vehicleId": "AV-GZ-004",
+    "rating": 3,
+    "feedbackText": "总体还行，偶尔有轻微的顿挫感，但不影响整体体验。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-01-24T07:28:12.105Z",
+    "tripDuration": 61,
+    "weather": "晴",
+    "sentiment": "neutral",
+    "tags": [
+      "保守驾驶",
+      "偶有顿挫"
+    ],
+    "createdAt": "2026-01-24T08:15:12.105Z"
+  },
+  {
+    "id": "F077",
+    "passengerId": "P034",
+    "tripId": "T20260124_077",
+    "vehicleId": "AV-CQ-001",
+    "rating": 2,
+    "feedbackText": "在高速上行驶时突然大幅度变道，完全没有预警，差点心脏病发作。",
+    "feedbackType": "安全感受",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-01-23T16:29:06.152Z",
+    "tripDuration": 51,
+    "weather": "大雨",
+    "sentiment": "negative",
+    "tags": [
+      "刹车距离近"
+    ],
+    "createdAt": "2026-01-23T17:13:06.152Z"
+  },
+  {
+    "id": "F022",
+    "passengerId": "P064",
+    "tripId": "T20260124_022",
+    "vehicleId": "AV-WH-002",
+    "rating": 3,
+    "feedbackText": "速度控制偏保守，超车时机有时候不够果断，不过没有安全隐患。",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "武汉天河机场 → 武汉站",
+    "tripStartTime": "2026-01-23T16:36:29.775Z",
+    "tripDuration": 69,
+    "weather": "阴",
+    "sentiment": "neutral",
+    "tags": [
+      "速度偏慢",
+      "保守驾驶"
+    ],
+    "createdAt": "2026-01-23T17:12:29.775Z"
+  },
+  {
+    "id": "F089",
+    "passengerId": "P071",
+    "tripId": "T20260123_089",
+    "vehicleId": "AV-WH-001",
+    "rating": 4,
+    "feedbackText": "全程有安全员监控，遇到复杂路口时处理得非常谨慎，很有安全感。",
+    "feedbackType": "安全感受",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-01-22T18:38:14.840Z",
+    "tripDuration": 15,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "应急处理好",
+      "行人判断准"
+    ],
+    "createdAt": "2026-01-22T19:17:14.840Z"
+  },
+  {
+    "id": "F060",
+    "passengerId": "P071",
+    "tripId": "T20260122_060",
+    "vehicleId": "AV-SH-002",
+    "rating": 5,
+    "feedbackText": "路线选择非常智能，几乎完美地避开了早高峰，比预计时间提前到达。",
+    "feedbackType": "路线规划",
+    "city": "上海",
+    "route": "浦东国际机场 → 陆家嘴",
+    "tripStartTime": "2026-01-22T00:52:20.266Z",
+    "tripDuration": 40,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "导航精准"
+    ],
+    "createdAt": "2026-01-22T01:12:20.266Z"
+  },
+  {
+    "id": "F038",
+    "passengerId": "P063",
+    "tripId": "T20260121_038",
+    "vehicleId": "AV-CQ-002",
+    "rating": 5,
+    "feedbackText": "高速段行驶特别平稳，跟车距离保持得很好，完全不担心安全问题。",
+    "feedbackType": "驾驶体验",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-01-21T12:14:06.189Z",
+    "tripDuration": 49,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "加减速顺滑",
+      "驾驶自然"
+    ],
+    "createdAt": "2026-01-21T12:53:06.189Z"
+  },
+  {
+    "id": "F040",
+    "passengerId": "P039",
+    "tripId": "T20260120_040",
+    "vehicleId": "AV-CQ-002",
+    "rating": 2,
+    "feedbackText": "明显走了冤枉路，比正常路线多了将近5公里，费用也多扣了不少。",
+    "feedbackType": "路线规划",
+    "city": "重庆",
+    "route": "重庆北站 → 观音桥",
+    "tripStartTime": "2026-01-20T14:09:30.314Z",
+    "tripDuration": 15,
+    "weather": "小雨",
+    "sentiment": "negative",
+    "tags": [
+      "走修路路段",
+      "绕路收费"
+    ],
+    "createdAt": "2026-01-20T14:29:30.314Z"
+  },
+  {
+    "id": "F124",
+    "passengerId": "P019",
+    "tripId": "T20260120_124",
+    "vehicleId": "AV-SH-004",
+    "rating": 5,
+    "feedbackText": "自动驾驶系统对路况判断准确，变道超车时机把握得很好，比人类司机还稳。",
+    "feedbackType": "驾驶体验",
+    "city": "上海",
+    "route": "徐家汇 → 张江高科",
+    "tripStartTime": "2026-01-19T20:40:52.679Z",
+    "tripDuration": 59,
+    "weather": "阴",
+    "sentiment": "positive",
+    "tags": [
+      "平稳舒适",
+      "跟车稳定"
+    ],
+    "createdAt": "2026-01-19T21:31:52.679Z"
+  },
+  {
+    "id": "F037",
+    "passengerId": "P002",
+    "tripId": "T20260120_037",
+    "vehicleId": "AV-GZ-001",
+    "rating": 4,
+    "feedbackText": "接驾位置就在出口正前方，下楼就能看到车，非常方便。",
+    "feedbackType": "接驾体验",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-01-19T18:41:42.783Z",
+    "tripDuration": 38,
+    "weather": "晴",
+    "sentiment": "positive",
+    "tags": [
+      "停车位置好",
+      "接驾便利",
+      "等待时间短"
+    ],
+    "createdAt": "2026-01-19T18:53:42.783Z"
+  },
+  {
+    "id": "F115",
+    "passengerId": "P046",
+    "tripId": "T20260119_115",
+    "vehicleId": "AV-GZ-002",
+    "rating": 1,
+    "feedbackText": "在堵车路段频繁停停走走，每次启动都有明显冲击感，坐得很不舒服。",
+    "feedbackType": "驾驶体验",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-01-19T01:01:58.724Z",
+    "tripDuration": 73,
+    "weather": "阴",
+    "sentiment": "negative",
+    "tags": [
+      "顿挫感强",
+      "急刹车"
+    ],
+    "createdAt": "2026-01-19T01:40:58.724Z"
+  },
+  {
+    "id": "F138",
+    "passengerId": "P022",
+    "tripId": "T20260119_138",
+    "vehicleId": "AV-CQ-001",
+    "rating": 4,
+    "feedbackText": "全程有安全员监控，遇到复杂路口时处理得非常谨慎，很有安全感。",
+    "feedbackType": "安全感受",
+    "city": "重庆",
+    "route": "南坪 → 洪崖洞",
+    "tripStartTime": "2026-01-18T23:40:59.599Z",
+    "tripDuration": 26,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "谨慎驾驶",
+      "行人判断准"
+    ],
+    "createdAt": "2026-01-19T00:25:59.599Z"
+  },
+  {
+    "id": "F035",
+    "passengerId": "P034",
+    "tripId": "T20260118_035",
+    "vehicleId": "AV-WH-001",
+    "rating": 5,
+    "feedbackText": "高速段行驶特别平稳，跟车距离保持得很好，完全不担心安全问题。",
+    "feedbackType": "驾驶体验",
+    "city": "武汉",
+    "route": "武昌火车站 → 武汉大学",
+    "tripStartTime": "2026-01-18T12:41:43.726Z",
+    "tripDuration": 25,
+    "weather": "小雨",
+    "sentiment": "positive",
+    "tags": [
+      "驾驶自然"
+    ],
+    "createdAt": "2026-01-18T12:56:43.726Z"
+  },
+  {
+    "id": "F010",
+    "passengerId": "P046",
+    "tripId": "T20260118_010",
+    "vehicleId": "AV-GZ-001",
+    "rating": 5,
+    "feedbackText": "车内非常整洁，座椅舒适，空调温度适宜，整个行程很愉快。",
+    "feedbackType": "车内环境",
+    "city": "广州",
+    "route": "番禺广场 → 花城广场",
+    "tripStartTime": "2026-01-18T11:03:44.333Z",
+    "tripDuration": 65,
+    "weather": "大雨",
+    "sentiment": "positive",
+    "tags": [
+      "空调舒适"
+    ],
+    "createdAt": "2026-01-18T11:23:44.333Z"
+  }
+]

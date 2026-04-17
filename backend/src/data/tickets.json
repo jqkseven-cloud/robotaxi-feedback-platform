@@ -1,0 +1,18 @@
+[
+  {
+    "id": "TK001",
+    "feedbackId": "F041",
+    "title": "[安全感受] 在雨天路面系统似乎出现了判断错… · 上海",
+    "feedbackType": "安全感受",
+    "city": "上海",
+    "route": "上海南站 → 徐汇滨江",
+    "rating": 1,
+    "feedbackText": "在雨天路面系统似乎出现了判断错误，险些驶入积水路段，很危险。",
+    "sentiment": "negative",
+    "status": "open",
+    "assignedTo": "安全团队",
+    "notes": "",
+    "createdAt": "2026-04-17T09:34:16.513Z",
+    "updatedAt": "2026-04-17T09:34:16.513Z"
+  }
+]
