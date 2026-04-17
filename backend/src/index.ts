@@ -49,7 +49,8 @@ app.use(errorHandler);
 const frontendDist = path.join(__dirname, '../../frontend/dist');
 if (fs.existsSync(frontendDist)) {
   app.use(express.static(frontendDist));
-  app.get('*', (_req, res) => {
+  // SPA fallback – must be after all API routes
+  app.use((_req, res) => {
     res.sendFile(path.join(frontendDist, 'index.html'));
   });
 }
