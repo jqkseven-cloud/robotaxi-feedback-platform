@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon --watch src --ext ts --exec ts-node src/index.ts",
     "build": "tsc",
+    "build:all": "cd ../frontend && npm install && npm run build && cd ../backend && npm run build",
     "start": "node dist/index.js"
   },
   "keywords": [],

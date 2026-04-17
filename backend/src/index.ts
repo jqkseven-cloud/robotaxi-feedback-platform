@@ -1,6 +1,8 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
+import path from 'path';
+import fs from 'fs';
 import feedbackRouter from './routes/feedback';
 import analyticsRouter from './routes/analytics';
 import aiRouter from './routes/ai';
@@ -42,6 +44,15 @@ app.get('/api/health', (_req, res) => {
 });
 
 app.use(errorHandler);
+
+// Serve frontend static files if the dist folder exists (production)
+const frontendDist = path.join(__dirname, '../../frontend/dist');
+if (fs.existsSync(frontendDist)) {
+  app.use(express.static(frontendDist));
+  app.get('*', (_req, res) => {
+    res.sendFile(path.join(frontendDist, 'index.html'));
+  });
+}
 
 app.listen(PORT, () => {
   logger.info('server_start', {
